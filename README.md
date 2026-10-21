@@ -1,16 +1,14 @@
-## Hi there 👋
+# ¡Hola! Soy Hugo
+## Sobre mí
+-Estudio ingeniería de Software en la Facultad de Ingeniería Electromecánica
+-Soy de Manzanillo,Colima
+-Actualmente estoy aprendiendo Codigo C
+-Mi meta es aprender a programar y,a lo mejor,hacer un videojuego
 
-<!--
-**HugoViCer/HugoViCer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Mis intereses
+-Los videojuegos
+-Las redes sociales
+-La música
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##Contacto
+hvirgen@ucol.mx
